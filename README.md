@@ -1,9 +1,21 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Tehran_logo.svg/300px-University_of_Tehran_logo.svg.png" width="120" alt="University of Tehran Logo">
+  
   <h1>🎓 UT-FineArts Registration Bot</h1>
   <p>A professional, highly-customizable Telegram Bot built for managing university event registrations, ticketing, and dynamic workshop reservations.</p>
+
+  <p>
+    <strong>Designed by the University of Tehran, College of Fine Arts <br> Industrial Design Student Scientific Association (UTIDSSA)</strong>
+  </p>
 </div>
 
 <hr>
+
+## 🏛️ About This Project
+
+This bot was originally designed and developed for the **University of Tehran, College of Fine Arts** and in particular, the **Industrial Design Student Scientific Association (UTIDSSA)**. 
+
+Other Universities, Faculties, and Student Scientific Associations (SSAs) are highly encouraged and welcomed to use this bot for their own events and workshops! We kindly ask that you keep the original credits and mention **UTIDSSA** in your iterations.
 
 ## 🌟 Features
 
@@ -55,9 +67,7 @@
 
 ## 💖 Open Source & Donations
 
-Feel free to use, fork, modify, and host this bot for your own events! It's completely fine to use this codebase for your communities. 
-
-If this bot saved you time, made your event run smoother, or you just appreciate the work, please consider leaving a donation! It helps keep the coffee flowing and the servers running. ☕
+Feel free to use, fork, modify, and host this bot for your own events! If this bot saved you time, made your event run smoother, or you just appreciate the work, please consider leaving a donation! It helps keep the coffee flowing and the servers running for the UTIDSSA team. ☕
 
 * **Bitcoin (BTC):** `bc1q...your_btc_address_here`
 * **Ethereum (ETH):** `0x...your_eth_address_here`
@@ -67,6 +77,5 @@ If this bot saved you time, made your event run smoother, or you just appreciate
 *(Note: Replace the placeholder addresses above with your actual crypto wallet addresses).*
 
 ---
-<div align="center">
-  <i>Developed with ❤️ for the University of Tehran Fine Arts community.</i>
-</div>
+## 📜 License
+Released under the **MIT License**. You are free to use and adapt this software, provided you include the original copyright notice and give credit to **UTIDSSA**.
