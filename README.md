@@ -69,12 +69,10 @@ Other Universities, Faculties, and Student Scientific Associations (SSAs) are hi
 
 Feel free to use, fork, modify, and host this bot for your own events! If this bot saved you time, made your event run smoother, or you just appreciate the work, please consider leaving a donation! It helps keep the coffee flowing and the servers running for the UTIDSSA team. ☕
 
-* **Bitcoin (BTC):** `bc1q...your_btc_address_here`
-* **Ethereum (ETH):** `0x...your_eth_address_here`
-* **Dogecoin (DOGE):** `D...your_doge_address_here`
-* **USDC (ERC-20/Polygon):** `0x...your_usdc_address_here`
-
-*(Note: Replace the placeholder addresses above with your actual crypto wallet addresses).*
+* **Bitcoin (BTC):** `bc1q0m62svyqcl9n898yvccza4dx049c3uuqqg28zj`
+* **Ethereum (ETH):** `0x1808eA06242729efA2E5a7B9c212530169011392`
+* **Bitcoin Cash (BCH):** `bitcoincash:qzh3392yy6n0dfqgqsl8j45h8rsn3zvuzq9rq75j5s`
+* **Gram (TON):** `UQDTgx7WQZHOc8IAkhuIn2srrJj0XjOLT8Ej1nssfAhyKtq9`
 
 ---
 ## 📜 License
