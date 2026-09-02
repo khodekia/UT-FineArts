@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Tehran_logo.svg/300px-University_of_Tehran_logo.svg.png" width="120" alt="University of Tehran Logo">
+  <img src="assets/University_of_Tehran_logo.svg" width="120" alt="University of Tehran Logo">
   
   <h1>🎓 UT-FineArts Registration Bot</h1>
   <p>A professional, highly-customizable Telegram Bot built for managing university event registrations, ticketing, and dynamic workshop reservations.</p>
