@@ -5,7 +5,7 @@
   <p>A professional, highly-customizable Telegram Bot built for managing university event registrations, ticketing, and dynamic workshop reservations.</p>
 
   <p>
-    <strong>Designed by the University of Tehran, College of Fine Arts <br> Industrial Design Student Scientific Association (UTIDSSA)</strong>
+    <strong>Designed & Developed by Kiavash & the University of Tehran, College of Fine Arts <br> Industrial Design Student Scientific Association (UTIDSSA)</strong>
   </p>
 </div>
 
